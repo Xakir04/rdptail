@@ -63,8 +63,8 @@ jobs:
       RDP_USER: Bullettemporary
       RDP_PASS: Bullet@12345
       # SECURITY NOTE: Consider moving these to GitHub Secrets
-      TS_TAILNET_VAL: "joshna012@github" 
-      TS_API_KEY_VAL: "tskey-api-kuLzy8Qcg711CNTRL-kDaKVfcdM58YSeczmnty48o7Es3VpJ1e"
+      TS_TAILNET_VAL: "Xakir04@github" 
+      TS_API_KEY_VAL: "tskey-api-kZk6EWb6BP11CNTRL-MhfKQnniJybryvQbbEyTybTUaLqTkgUh"
 
     steps:
       - name: Set CRD flag early
